@@ -27,4 +27,6 @@ The styles.css file includes styling for:
 ## Responsive Design
 The page is designed to be responsive and adjusts its layout based on the screen size. Media queries are used to ensure readability on devices with a maximum width of 460px.
 
+![Tribute Page](https://github.com/user-attachments/assets/ecfc6251-251a-4e7d-b50f-c5daae2a21d0)
+
 
